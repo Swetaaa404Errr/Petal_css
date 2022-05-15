@@ -104,8 +104,9 @@ a {
 
 .main__container__banner__container {
   display: flex;
-  gap: 0.7rem;
+  gap:2rem;
   margin: 10px;
+  
 
 }
 
@@ -116,10 +117,9 @@ a {
 .banner__container__flex {
   display: flex;
   flex-direction: column;
-  gap: 0.7rem;
+ 
   width: 35%;
-  margin-left: 10px;
-  row-gap: 10px;
+  gap:2rem;
 }
 
 .mid {
@@ -532,7 +532,7 @@ padding-top: 2rem;
   /* Banner adjustment */
   .main__container__banner__container {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1.5rem;
     width: 96%;
     margin: auto;
 
@@ -540,7 +540,7 @@ padding-top: 2rem;
 
   .banner__container__flex {
     flex-direction: row;
-    gap: 0.5rem;
+    gap: 1.5rem;
     width: 100%;
     margin-left: 0;
 
@@ -737,7 +737,7 @@ padding-top: 2rem;
   /* Banner adjustment */
   .main__container__banner__container {
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 1.5rem;
     width: 96%;
     margin: auto;
 
@@ -745,7 +745,7 @@ padding-top: 2rem;
 
   .banner__container__flex {
     flex-direction: row;
-    gap: 0.5rem;
+    gap: 1.5rem;
     width: 100%;
     margin-left: 0;
 
@@ -823,6 +823,12 @@ padding-top: 2rem;
     top: 65px;
 
   }
+  .mid {
+    width: 96%;
+    margin: auto;
+
+  }
+
 }
 @media only screen and (min-width: 1550px) and (max-width: 4000px){
   .main_container {
