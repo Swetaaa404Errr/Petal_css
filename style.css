@@ -391,6 +391,7 @@ a {
     z-index: 2;
     width: 100%;
     background: var(--secondary-light);
+    gap: 0.8rem;
   }
 
   .navlinks__transition {
@@ -415,7 +416,7 @@ a {
   .header__nav__navlinks > li > a {
     color: var(--primary);
     font-weight: 500;
-    font-size: 1.3rem;
+    font-size: 1.4rem;
     width: 100%;
   }
 
