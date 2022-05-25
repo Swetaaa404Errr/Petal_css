@@ -95,7 +95,7 @@ a {
   top: 20px;
 }
 
-.mid h2 {
+.mid h3 {
   text-align: center;
   position: relative;
   top: 5px;
@@ -147,14 +147,14 @@ a {
 }
 
 /*  Cards Text */
-.outer h2 {
+.outer h4 {
   font-size: 1.2rem;
   padding-top: 0.5rem;
   font-weight: 300;
   padding-bottom: 0rem;
 }
 
-.outer h1 {
+.outer h3 {
   font-size: 1.8rem;
   font-weight: 700;
   padding-top: 1rem;
@@ -187,7 +187,7 @@ a {
   padding-bottom: 10px;
 }
 
-.social h1 {
+.social h3 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 25px;
   color: rgb(204, 97, 97);
@@ -195,7 +195,7 @@ a {
   top: 10px;
 }
 
-.social h2 {
+.social h4 {
   font-size: 10px;
   font-family: white;
   position: relative;
@@ -227,14 +227,14 @@ a {
     padding: 1.5rem 1.5rem 1rem 1.5rem;
   }
 
-  .outer h2 {
+  .outer h4 {
     font-size: 1rem;
 
     padding-top: 0.3em;
     font-weight: 300;
   }
 
-  .outer h1 {
+  .outer h3 {
     font-size: 1.5rem;
     font-weight: 700;
     padding-bottom: 0rem;
@@ -264,14 +264,14 @@ a {
   .outer {
     padding: 1rem 1rem 1rem 1rem;
   }
-  .outer h2 {
+  .outer h4 {
     font-size: 0.8rem;
     padding-bottom: 0rem;
     padding-top: 0.5rem;
     font-weight: 500;
   }
 
-  .outer h1 {
+  .outer h3 {
     font-size: 1rem;
     font-weight: 700;
     padding-bottom: 0rem;
@@ -318,14 +318,14 @@ a {
   .outer {
     padding: 1rem 1rem 1rem 1rem;
   }
-  .outer h2 {
+  .outer h4 {
     font-size: 0.6rem;
     padding-bottom: 0rem;
     padding-top: 0.3rem;
     font-weight: 500;
   }
 
-  .outer h1 {
+  .outer h3 {
     font-size: 1rem;
     font-weight: 700;
     padding-bottom: 0rem;
@@ -479,7 +479,7 @@ a {
     padding: 1.5rem 1rem 1rem 1rem;
   }
 
-  .outer h2 {
+  .outer h4 {
     font-size: 0.7rem;
     padding-top: 0.4rem;
     font-weight: 450;
@@ -489,7 +489,7 @@ a {
     width: 75%;
   }
 
-  .outer h1 {
+  .outer h3 {
     font-size: 1.1rem;
     font-weight: 700;
     padding-top: 0.6rem;
